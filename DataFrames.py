@@ -1,6 +1,7 @@
-# Divider length
-import pandas
+# Imports
+import pandas as pd
 
+# Divider length
 dLen = '-' * 20
 
 # ---------- What is a DataFrame ----------
@@ -8,9 +9,6 @@ dLen = '-' * 20
 # A Pandas DataFrame is a 2-dimensional data structure, like a 2-dimensional array, or a table with rows and columns
 
 # Create a simple Pandas DataFrame
-
-# Imports
-import pandas as pd
 
 data = {
     "calories": [420, 380, 390],
@@ -75,4 +73,4 @@ print(dLen)
 df = pd.read_csv('customers-100.csv')
 
 # Print out DataFrame
-print(df)
+print(df.to_string())   # Use "to_string()" to print the entire DataFrame

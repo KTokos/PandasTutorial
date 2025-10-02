@@ -1,11 +1,12 @@
+# Imports
+import pandas as pd
+
 # Divider length
 dLen = '-' * 20
 
 # ---------- What is a Series ----------
 
 # A pandas series is like a column in a table
-# Imports
-import pandas as pd
 
 # One dimensional array holding data of any time
 a = [1, 7, 2]
