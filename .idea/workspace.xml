@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PandasTutorial.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataFrames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GettingStarted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Series.py" afterDir="false" />
+    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Added more to Series.py and DataFrames.py. Included a csv file for testing">
+      <change beforePath="$PROJECT_DIR$/DataFrames.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataFrames.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +58,27 @@
       <option name="presentableId" value="Default" />
       <updated>1759252004886</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added more to Series.py and DataFrames.py. Included a csv file for testing">
+      <option name="closed" value="true" />
+      <created>1759437486050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759437486050</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added more to Series.py and DataFrames.py. Included a csv file for testing">
+      <option name="closed" value="true" />
+      <created>1759437521328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759437521328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more to Series.py and DataFrames.py. Included a csv file for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more to Series.py and DataFrames.py. Included a csv file for testing" />
   </component>
 </project>

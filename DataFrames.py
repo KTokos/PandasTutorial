@@ -74,4 +74,5 @@ print(dLen)
 # Load a comma separated file (CSV) into a DataFrame
 df = pd.read_csv('customers-100.csv')
 
+# Print out DataFrame
 print(df)
