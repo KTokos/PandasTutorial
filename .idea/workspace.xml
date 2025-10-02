@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Added more to Series.py and DataFrames.py. Included a csv file for testing">
-      <change afterPath="$PROJECT_DIR$/PandasReadCSV.py" afterDir="false" />
+    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataFrames.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataFrames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasReadCSV.py" beforeDir="false" afterPath="$PROJECT_DIR$/PandasReadCSV.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DataFrames.executor": "Run",
     "Python.GettingStarted.executor": "Run",
+    "Python.PandasReadCSV.executor": "Run",
     "Python.Series.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759437720891</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas">
+      <option name="closed" value="true" />
+      <created>1759438996810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759438996810</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added more to Series.py and DataFrames.py. Included a csv file for testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more to Series.py and DataFrames.py. Included a csv file for testing" />
+    <MESSAGE value="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas" />
   </component>
 </project>
