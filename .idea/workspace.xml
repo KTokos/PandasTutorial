@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas">
-      <change afterPath="$PROJECT_DIR$/PandasReadJSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Order.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PandasAnalyzingDataFrames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.DataFrames.executor": "Run",
     "Python.GettingStarted.executor": "Run",
+    "Python.PandasAnalyzingDataFrames.executor": "Run",
     "Python.PandasReadCSV.executor": "Run",
     "Python.PandasReadJSON.executor": "Run",
     "Python.Series.executor": "Run",
@@ -113,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759439402235</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added a new csv file to work with. Created &quot;PandasReadCSV.py,&quot; which contains examples of how to use a CSV with Pandas">
+      <option name="closed" value="true" />
+      <created>1759440190532</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759440190532</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

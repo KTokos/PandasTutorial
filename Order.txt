@@ -1,0 +1,24 @@
+Pandas Tutorial
+
+    1. GettingStarted.py
+    2. Series.py
+    3. DataFrames.py
+    4. PandasReadCSV.py
+    5. PandasReadJSON.py
+    6. PandasAnalyzingDataFrames.py
+
+Cleaning Data
+
+    1. CleaningData.py
+    2. CleaningEmptyCells.py
+    3. CleaningWrongFormat.py
+    4. CleaningWrongData.py
+    5. RemovingDuplicates.py
+
+Correlations
+
+    1. PandasCorrelations.py
+
+Plotting
+
+    1. PandasPlotting.py
