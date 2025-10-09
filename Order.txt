@@ -9,11 +9,11 @@ Pandas Tutorial
 
 Cleaning Data
 
-    1. CleaningData.py
-    2. CleaningEmptyCells.py
-    3. CleaningWrongFormat.py
-    4. CleaningWrongData.py
-    5. RemovingDuplicates.py
+    1. PandasCleaningData.py
+    2. PandasCleaningEmptyCells.py
+    3. PandasCleaningWrongFormat.py
+    4. PandasCleaningWrongData.py
+    5. PandasRemovingDuplicates.py
 
 Correlations
 
