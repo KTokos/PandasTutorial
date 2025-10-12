@@ -28,6 +28,9 @@ df['Date'] = pd.to_datetime(df['Date'], format='mixed')
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print the entire DataFrame
 
+# Divider
+print(dLen)
+
 # As you can see from the result, the date in row 25 was fixed, but the empty date in row 22 got a NaT (Not a Time)
 # value, in other words an empty value. One way to deal with empty values is simply removing the entire row
 

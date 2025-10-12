@@ -23,6 +23,9 @@ new_df = df.dropna()
 # Print out the new DataFrame
 print(new_df.to_string())   # Use "to_string()" to print the entire DataFrame
 
+# Divider
+print(dLen)
+
 # NOTE: By default, the "dropna()" method returns a new DataFrame, and will not change the original
 
 # If you want to change the original DataFrame, use the inplace = True argument
@@ -31,6 +34,9 @@ df.dropna(inplace=True)
 
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out the entire DataFrame
+
+# Divider
+print(dLen)
 
 # NOTE: Now, the "dropna(inplace=True)" will NOT return a new DataFrame, but it will remove all rows containing NULL
 #       values from the original DataFrame
@@ -52,6 +58,9 @@ df.fillna(130, inplace=True)
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out the entire DataFrame
 
+# Divider
+print(dLen)
+
 # ---------- Replace Only For Specified Columns ----------
 
 # The example above replaces all empty cells in the whole DataFrame
@@ -66,6 +75,9 @@ df.fillna({"Calories": 130}, inplace=True)
 
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out the entire DataFrame
+
+# Divider
+print(dLen)
 
 # ---------- Replace Using Mean, Median, or Mode ----------
 
@@ -86,6 +98,9 @@ df.fillna({"Calories": x}, inplace=True)
 
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out the entire DataFrame
+
+# Divider
+print(dLen)
 
 # NOTE: Mean = the average value (the sum of all values divided by number of values)
 

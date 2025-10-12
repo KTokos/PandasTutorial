@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Added &quot;PandasCleaningEmptyCells.py&quot;, and finished it.">
-      <change afterPath="$PROJECT_DIR$/PandasCleaningWrongFormat.py" afterDir="false" />
+    <list default="true" id="20f0b70d-e6ee-4b7d-ac1d-3267b6a50dee" name="Changes" comment="Updated the CSV files to include a 'Date' column. Also created 'PandasCleaningWrongFormat.py' that uses the new CSV files.">
+      <change afterPath="$PROJECT_DIR$/PandasCleaningWrongData.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Order.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Order.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasCleaningEmptyCells.py" beforeDir="false" afterPath="$PROJECT_DIR$/PandasCleaningEmptyCells.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PandasCleaningWrongFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/PandasCleaningWrongFormat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/originalData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/originalData.csv" afterDir="false" />
     </list>
@@ -53,6 +54,7 @@
     "Python.GettingStarted.executor": "Run",
     "Python.PandasAnalyzingDataFrames.executor": "Run",
     "Python.PandasCleaningEmptyCells.executor": "Run",
+    "Python.PandasCleaningWrongData.executor": "Run",
     "Python.PandasCleaningWrongFormat.executor": "Run",
     "Python.PandasReadCSV.executor": "Run",
     "Python.PandasReadJSON.executor": "Run",
@@ -160,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759857036491</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated the CSV files to include a 'Date' column. Also created 'PandasCleaningWrongFormat.py' that uses the new CSV files.">
+      <option name="closed" value="true" />
+      <created>1760028129069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760028129069</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +190,7 @@
     <MESSAGE value="Finished the basic pandas tutorial, added a txt in order to show the order of the files to strangers." />
     <MESSAGE value="Added a copy of the dataset, and &quot;PandasCleaningData.py&quot;" />
     <MESSAGE value="Added &quot;PandasCleaningEmptyCells.py&quot;, and finished it." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;PandasCleaningEmptyCells.py&quot;, and finished it." />
+    <MESSAGE value="Updated the CSV files to include a 'Date' column. Also created 'PandasCleaningWrongFormat.py' that uses the new CSV files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the CSV files to include a 'Date' column. Also created 'PandasCleaningWrongFormat.py' that uses the new CSV files." />
   </component>
 </project>
