@@ -47,6 +47,9 @@ for x in df.index:
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out entire DataFrame
 
+# Divider
+print(dLen)
+
 # ---------- Removing Rows ----------
 
 # Another way of handling wrong data is to remove the rows that contains wrong data
@@ -63,6 +66,3 @@ for x in df.index:
 
 # Print out the DataFrame
 print(df.to_string())   # Use "to_string()" to print out the entire DataFrame
-
-# Divider
-print(dLen)
