@@ -17,7 +17,7 @@ Cleaning Data
 
 Correlations
 
-    1. PandasCorrelations.py
+    1. PandasDataCorrelations.py
 
 Plotting
 
